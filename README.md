@@ -99,7 +99,7 @@
     <p>
       サンヨウチュウは世界中の海にたくさんいて、
       殻がかたかったため、化石として残りやすかったのです。
-    </p><img width="9449" height="3543" alt="trilobite_bg" src="https://github.com/user-attachments/assets/0373bfa3-0394-40b8-9a0d-ab5f3145cde1" />
+    </p>
 
   </section>
 
